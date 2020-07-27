@@ -1,17 +1,18 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import Rodape from '../../assets/img/rodape.png';
 
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="https://www.facebook.com/felipe.gomespires">
+        <img src={Rodape} alt="Felipe Gomes Pires"/>
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Orgulhosamente criado por
         {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+        <a href="https://www.facebook.com/felipe.gomespires">
+          Felipe Gomes Pires
         </a>
       </p>
     </FooterBase>
