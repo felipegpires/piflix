@@ -1,183 +1,149 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Treinamento",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#DB202C",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Todos os vídeos sobre treinamento",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Como começar a correr quando se está acima do peso",
+          "url": "https://www.youtube.com/watch?v=j64lvNJ5X2Y"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "How To Run A Sub 20 Min 5K",
+          "url": "https://www.youtube.com/watch?v=nZpPgetNmDk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "How to Run Longer Without Getting So Tired",
+          "url": "https://www.youtube.com/watch?v=jmyLSQ0REmo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "3 Running Exercises to Get Faster!",
+          "url": "https://www.youtube.com/watch?v=A8HC4rnQX_k"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Marathon Training for Beginners | 3 Survival Tips!",
+          "url": "https://www.youtube.com/watch?v=kHftEJxeeLk"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Foot and Ankle Strengthening Exercises For Runners",
+          "url": "https://www.youtube.com/watch?v=6nz6kDUgirc"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Gym Training For Runners",
+          "url": "https://www.youtube.com/watch?v=ItdPUkXAsu4"
+        }     
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Reviews",
+      "cor": "#DB202C",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Todos os vídeos de reviews",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O melhor JAYBIRD de todos? JAYBIRD VISTA REVIEW",
+          "url": "https://www.youtube.com/watch?v=SpSKkxcpJjY"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Syllable S101: PQ ME PERGUNTAM TANTO DESSE FONE?",
+          "url": "https://www.youtube.com/watch?v=_-zZNb4dOrM"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "POLAR VANTAGE M ou V: Qual é o ideal pra você?",
+          "url": "https://www.youtube.com/watch?v=0qn5j2dizRc"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "DÁ PRA CORRER COM ELE? Amazfit Pace - REVIEW",
+          "url": "https://www.youtube.com/watch?v=sNB6jWWFasU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "TOP 5 RELÓGIOS GPS para CORREDORES INICIANTES // CUSTO-BENEFÍCIO",
+          "url": "https://www.youtube.com/watch?v=0wj41nwt3Io"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Tênis para corrida",
+      "cor": "#DB202C",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Todos os vídeos sobre tênis",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "SAUCONY KINVARA 10 vs FREEDOM ISO 2",
+          "url": "https://www.youtube.com/watch?v=5jHWmva5XMc"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "10 ALTERNATIVAS de TÊNIS (até R$ 259 mais barato)",
+          "url": "https://www.youtube.com/watch?v=p9c_1efNtsI"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "TOP 10 TÊNIS para 10 KM: INICIANTES e AVANÇADOS",
+          "url": "https://www.youtube.com/watch?v=hKY-MkgDZC0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "UM TÊNIS DE CORRIDA BOM E MUITO BARATO! Eikiden Active Breath - REVIEW",
+          "url": "https://www.youtube.com/watch?v=0Mb0GMcTrnI"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "#DB202C",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "DEZ FILMES para você assistir em CASA",
+          "url": "https://www.youtube.com/watch?v=t20IHYMys38"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "INSPIRE-SE EM CARRUAGENS DE FOGO",
+          "url": "https://www.youtube.com/watch?v=DICRgRSImxY"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Nossos filmes de corrida favoritos",
+          "url": "https://www.youtube.com/watch?v=4-Tzm0126Fk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "TOP 10: MELHORES FILMES DE CORRIDA",
+          "url": "https://www.youtube.com/watch?v=8S62J9iTdbA"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Nutrição",
+      "cor": "#DB202C",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "TIRANDO AS DÚVIDAS SOBRE NUTRIÇÃO ft. Danilo Balu | CNA AO VIVO",
+          "url": "https://www.youtube.com/watch?v=3_MRHflZAuI"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Como emagreci 10 quilos em 3 meses (E NÃO FOI CORRENDO!)",
+          "url": "https://www.youtube.com/watch?v=eH-kdtPmot8"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "O QUE COMER PARA CORRER?",
+          "url": "https://www.youtube.com/watch?v=mtKxm4NSjOI"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Palestra sobre corrida e nutrição esportiva com o Danilo Balu em SP!",
+          "url": "https://www.youtube.com/watch?v=_zJ2csCrNj4"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "DIETA LOW CARB E PALEO FUNCIONAM COM CORREDORES?",
+          "url": "https://www.youtube.com/watch?v=CUmPHaeossA"
         }
       ]
     }
