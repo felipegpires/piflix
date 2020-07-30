@@ -1,13 +1,16 @@
+/* eslint-disable linebreak-style */
 import styled from 'styled-components';
 
 const Button = styled.button`
   color: var(--white);
   border: 1px solid var(--white);
+  background: #000;
   padding: 16px 24px;
   font-size: 16px;
   border-radius: 4px;
   font-weight: bold;
   text-decoration: none;
+  cursor: pointer;
   transition: opacity .3s;
   &:hover,
   &:focus {
